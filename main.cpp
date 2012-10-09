@@ -10,6 +10,6 @@ int main()
     double f, x; // f-jos reiksme ir argumentas x
     int n; // uzdavinio dimensija
     int xspr; // Argumento
-
+    int fspr; // uzdavinio sprendinys
     return 0;
 }
